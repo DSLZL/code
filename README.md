@@ -1,3 +1,5 @@
+# I don't know if there is any content left in this repository that infringes on the copyright and interest of modrinth, please let me know if you find it
+
 # ![Modrinth Monorepo Cover](/.github/assets/monorepo_cover.png)
 
 ![Issues](https://img.shields.io/github/issues-raw/Modrinth/code?color=c78aff&label=issues&style=for-the-badge)
